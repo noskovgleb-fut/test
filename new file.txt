@@ -1,1 +1,3 @@
-Add new lines of code again, and try do it normally
+Add new lines of code again, and try do it normally, add code
+And few lines
+There and there, Feature 2 is awesome
