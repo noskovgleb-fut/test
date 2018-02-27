@@ -5,4 +5,9 @@ And separate line for feature 3
 Forgot add line for feature 3
 Code related to feature 4, Code for 5 feature
 And more code for 5 feature
-One line for 5 feature
+One line for 5 feature, feature 6
+Fetatuuuuuuuuute 6 and feature 7 and update for feature 7,8
+Feature 8 update for update 8 and a little bit 8.5
+Mega update for 8 feature, and Oleg updated this as well. Feature 9
+Feature 9 and update feature 9999999999
+Another feature 9 and I want to add a little bit changes. I don't like new lines
