@@ -4,4 +4,3 @@ There and there, Feature 2 is awesome. Line for feature 3
 And separate line for feature 3
 Forgot add line for feature 3
 Code related to feature 4
-Code that related to feature 4
