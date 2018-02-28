@@ -22,4 +22,4 @@ My new update. Continue working with feature 8. I love my work very much
 Very hot fix
 Because of this I made update registration this chanchges. I love number 13 as well
 
-registration page update
+registration page update. Changes that needed for registration page
