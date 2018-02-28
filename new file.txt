@@ -20,4 +20,6 @@ Feature 14 Update for feature 14, 9  Update new update
 Few lines for udpate 9. Hot fix again
 My new update. Continue working with feature 8. I love my work very much
 Very hot fix
-Because of this I made this chanchges. I love number 13 as well
+Because of this I made update registration this chanchges. I love number 13 as well
+
+registration page update
